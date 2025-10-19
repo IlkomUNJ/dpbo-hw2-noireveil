@@ -1,0 +1,5 @@
+If the program crashes or fails on startup (load error) or on exit (save error),
+this 'simulation_data.txt' file is likely corrupt or incompatible.
+
+SOLUTION: Delete this 'simulation_data.txt' file and run the program again.
+It will automatically generate a new, empty file.
